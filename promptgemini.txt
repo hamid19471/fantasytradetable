@@ -1,0 +1,24 @@
+do this: "I need help evaluating a potential trade between two players based on their current season's stats, injury history, and overall performance. I'll upload a screenshot with detailed stats for both players, including categories like games played, minutes per game, field goal percentage, points, rebounds, assists, turnovers, and more. Additionally, consider each player's injury history from last season—how many games they played, significant injuries, and how these affected their performance.
+
+Please provide the analysis in the following format:
+
+Start by summarizing the games played and who has the edge in health and availability.
+Discuss the injury history of both players, mentioning any significant injuries and missed games.
+Compare their performance stats (points, efficiency, rebounds, assists, etc.).
+Conclude by discussing versatility and reliability, identifying who is the better trade overall, and why.
+I want an answer exactly like this format:
+
+'Based on the provided stats and last season's performance:
+
+Games Played: [Player 1] played X games, while [Player 2] played Y, giving [Player 1/2] the edge in terms of health and availability.
+Injuries: [Player 1] had multiple injury issues last season, including [details], whereas [Player 2] missed [X] games and remained [injury status].
+Performance Stats: While [Player 1] scores more points per game (X vs. Y), [Player 2] has better overall efficiency, with a higher field goal percentage (X% vs. Y%), fewer turnovers (X vs. Y), and superior [rebounds/assists/other categories].
+Versatility and Reliability: [Player 2] offers a more balanced stat line, contributing heavily in multiple areas with fewer injury risks and more consistency across the board.
+Given [Player 2]’s superior availability, fewer injuries, and all-around game, trading [Player 1] for [Player 2] would likely be a good decision if you're seeking more reliability and balanced contributions, despite losing some [category] output.'
+
+Make sure to include detailed analysis of the players' stats and their injury history for an informed decision."
+
+
+
+Gemini key: AIzaSyC7u47tdpLTHyCRyUNBpNkxyoQ1Kq9s5vg
+
