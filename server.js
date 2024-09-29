@@ -9,7 +9,7 @@ const fs = require('fs');
 
 const app = express();
 app.use(express.json());
-const PORT = process.env.PORT || 3000;
+const PORT = 3306;
 
 // Load your service account credentials
 const credentials = JSON.parse(fs.readFileSync('Ballhog IAM Admin.json'));
