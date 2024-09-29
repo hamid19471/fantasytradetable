@@ -17,9 +17,9 @@ const auth = new google.auth.GoogleAuth({
 
 // Create a connection pool
 const pool = mysql.createPool({
-  host: 'localhost',
+  host: 'ballhog-db',
   user: 'root',
-  password: 'password',
+  password: 'qNnqP5Artz4opjwbOLGCayu3',
   database: 'ballhog_googlespreadsheet',
   waitForConnections: true,
   connectionLimit: 10,
